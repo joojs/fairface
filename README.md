@@ -18,6 +18,9 @@ If you use our dataset or model in your paper, please cite:
 
 https://github.com/dchen236/FairFace
 
+Pretrained model res34_fair_align_multi_7_20190809.pt
+https://drive.google.com/file/d/11y0Wi3YQf21a_VcspUV4FwqzhMcfaVAB/view?usp=sharing
+
 ## Data
 
 Images (train + validation set): 
